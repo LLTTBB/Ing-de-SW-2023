@@ -1,0 +1,19 @@
+REFERENCIAS
+
+1.Acceder a la seccion
+2.Solicitar usuarios
+3.Leer listado de usuarios
+4.Devolver usuarios
+5.Buscar mensajes publicos asociados
+6.Devolver mensajes publicos
+7.Presentar publicaciones de usuarios
+8.Mostrar feed
+9.Seleccionar opcion republicar
+10.Transferir publicacion seleccionada
+11.Actualizar contador de republicacion
+12.Leer usuario iniciador
+13.Devolver usuario 
+14.Añadir mensaje publico
+15.Devolver republicacion
+16.Agregar al feed
+17.Mostrar feed actualizado
